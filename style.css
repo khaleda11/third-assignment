@@ -31,4 +31,20 @@ body{
          color: white;
         
  }
+       /*--------------- package-------------------  */
+       
+ .design-card{
+          margin-top: -10%;
+          margin-left: -3%;
+          margin-right: -3%;
+        line-height: 30px;
+       border-radius: 30px;
+         
+       
+}
+.card{
+          background-color:rgb(103, 224, 224);
+
+         
+}
 
