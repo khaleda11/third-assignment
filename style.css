@@ -66,6 +66,50 @@ body{
         margin-top: 6%;
         text-align: center;
       }
+
+
+      @media only screen and (max-width:688px) {
+          .container{
+              width: 100%;
+             
+          }
+          .navbar-brand {
+                    font-size: small;
+          }
+          .carousel-item{
+                    height: 620px;
+                    padding: 5%;
+          }
+          .carousel-item img{
+                    height: 610px;
+          }
+          .carousel-caption h4{
+                     padding-top: 5%;
+                    font-size: small;
+                    text-align: center;        
+                   
+          }
+          .wedding-pic img{
+                  
+                    padding: 2%;
+                  width: 100%;
+          }
+          .card{
+               margin-bottom: 15%;
+          }
+          .design-card{
+                    margin-top: 5%;
+
+          }
+
+          .acc-right img{
+                    padding: 2%;
+                    width: 100%;
+          }
+         
+
+
+}
       
            
  
