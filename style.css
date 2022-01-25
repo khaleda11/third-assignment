@@ -32,7 +32,7 @@ body{
         
  }
        /*--------------- package-------------------  */
-       
+
  .design-card{
           margin-top: -10%;
           margin-left: -3%;
@@ -42,9 +42,32 @@ body{
          
        
 }
-.card{
+.card{ 
           background-color:rgb(103, 224, 224);
 
          
-}
+   }
+
+ span.fa{
+          color:orangered
+        }
+
+ /* --------------------footer start -------------------- */
+
+ footer{
+
+          background-color: rgb(5, 5, 70);
+          height: 200px;
+          width: 100vw;
+          color: #fff;
+ }
+
+ .footer-left {
+        margin-top: 6%;
+        text-align: center;
+      }
+      
+           
+ 
+ 
 
